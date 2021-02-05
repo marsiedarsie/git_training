@@ -4,3 +4,5 @@ More text haha!
 Changes   
 
 Fetch Example Text
+
+Rewrite History
