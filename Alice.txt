@@ -2,3 +2,5 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 Added text to the second line!
 More text haha!
 Changes   
+
+Fetch Example Text
